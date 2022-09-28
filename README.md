@@ -1,13 +1,3 @@
-<h3 align="center">Hola 👋!<br>Soy un Desarrollador Web Full Stack</h3>
-
-###
-
-<p align="left">Hola 👋 Soy Desarrollador Web Full Stack graduado de Henry y estudiante de Ingeniería de Sistemas en la Universidad Nacional Abierta y a Distancia de Colombia.</p>
-
-###
-
-<h3 align="center">Tecnologias:</h3>
-
 ###
 
 <div align="center">
@@ -30,6 +20,34 @@
 
 ###
 
+<h3 align="center">
+Hola 👋!<br>Mi nombre es Gabriel Revelo
+</h3>
+
+###
+
+<p align="left">
+Soy Desarrollador Web Full Stack graduado de Henry y estudiante de Ingeniería de Sistemas en la Universidad Nacional Abierta y a Distancia de Colombia.
+
+Tengo 1 año de experiencia en el desarrollo de aplicaciones web 💻 , usando tecnologías como:
+
+📌 HTML5 <br>
+📌 CSS3 <br>
+📌 JavaScript <br>
+📌 React <br>
+📌 Redux <br>
+📌 Tailwind <br>
+📌 Node.js <br>
+📌 Express <br>
+📌 Java <br>
+📌 SpringBoot <br>
+📌 MySQL <br>
+📌 PostgreSQL <br>
+📌 MongoDB <br>
+</p>
+
+###
+
 <h3 align="center">Contactame:</h3>
 
 ###
@@ -45,10 +63,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<h3 align="center">Estadisticas:</h3>
 
 ###
 
