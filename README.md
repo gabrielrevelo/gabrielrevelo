@@ -20,9 +20,9 @@
 
 ###
 
-<h3 align="center">
-Hola 👋!<br>Mi nombre es Gabriel Revelo
-</h3>
+<h2 align="center">
+Hola 👋! Mi nombre es Gabriel Revelo
+</h2>
 
 ###
 
@@ -48,11 +48,11 @@ Tengo 1 año de experiencia en el desarrollo de aplicaciones web 💻 , usando t
 
 ###
 
-<h3 align="center">Contactame:</h3>
+<h3 align="left">Contactame:</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/garev98/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
