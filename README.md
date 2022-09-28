@@ -67,8 +67,12 @@ Tengo 1 año de experiencia en el desarrollo de aplicaciones web 💻 , usando t
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=es&hide_border=true&username=GaRev98" height="150" alt="stats graph"  />
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=es&hide_border=true&username=GaRev98&hide=issues" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=es&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&username=GaRev98" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=GaRev98&theme=github-light&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
