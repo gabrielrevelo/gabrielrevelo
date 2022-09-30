@@ -29,7 +29,7 @@ Hola 👋! Mi nombre es Gabriel Revelo
 <p align="left">
 Soy Desarrollador Web Full Stack graduado de Henry y estudiante de Ingeniería de Sistemas en la Universidad Nacional Abierta y a Distancia de Colombia.
 
-Tengo 1 año de experiencia en el desarrollo de aplicaciones web 💻 , usando tecnologías como:
+Tengo experiencia en el desarrollo de aplicaciones web 💻 , usando tecnologías como:
 
 📌 HTML5 <br>
 📌 CSS3 <br>
