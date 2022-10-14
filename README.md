@@ -1,5 +1,23 @@
 ###
 
+[![@garev98's Holopin board](https://holopin.me/garev98)](https://holopin.io/@garev98)
+
+###
+
+<h2 align="center">
+Hola 👋! Mi nombre es Gabriel Revelo
+</h2>
+
+###
+
+<p align="left">
+Soy Desarrollador Web Full Stack graduado de Henry y estudiante de Ingeniería de Sistemas en la Universidad Nacional Abierta y a Distancia de Colombia.
+
+Tengo experiencia en el desarrollo de aplicaciones web 💻 , usando tecnologías como: HTML5, CSS3,JavaScript ,React, Redux, Tailwind, Node.js, Express, Java, SpringBoot, MySQL, PostgreSQL, MongoDB 
+</p>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -17,34 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
-
-###
-
-<h2 align="center">
-Hola 👋! Mi nombre es Gabriel Revelo
-</h2>
-
-###
-
-<p align="left">
-Soy Desarrollador Web Full Stack graduado de Henry y estudiante de Ingeniería de Sistemas en la Universidad Nacional Abierta y a Distancia de Colombia.
-
-Tengo experiencia en el desarrollo de aplicaciones web 💻 , usando tecnologías como:
-
-📌 HTML5 <br>
-📌 CSS3 <br>
-📌 JavaScript <br>
-📌 React <br>
-📌 Redux <br>
-📌 Tailwind <br>
-📌 Node.js <br>
-📌 Express <br>
-📌 Java <br>
-📌 SpringBoot <br>
-📌 MySQL <br>
-📌 PostgreSQL <br>
-📌 MongoDB <br>
-</p>
 
 ###
 
