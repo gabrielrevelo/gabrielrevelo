@@ -55,10 +55,3 @@ Tengo experiencia en el desarrollo de aplicaciones web 💻 , usando tecnología
 </div>
 
 ###
-
-<div align="center">
-  <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=es&hide_border=true&username=GaRev98&hide=issues" height="133" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=es&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&username=GaRev98" height="133" alt="languages graph"  />
-</div>
