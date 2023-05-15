@@ -1,9 +1,3 @@
-###
-
-[![@garev98's Holopin board](https://holopin.me/garev98)](https://holopin.io/@garev98)
-
-###
-
 <h2 align="center">
 Hola 👋! Mi nombre es Gabriel Revelo
 </h2>
