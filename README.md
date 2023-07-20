@@ -1,9 +1,3 @@
-<h2 align="center">
-Hola 👋! Mi nombre es Gabriel Revelo
-</h2>
-
-###
-
 <p align="left">
 Soy estudiante de Ingeniería de Sistemas en la Universidad Nacional Abierta y a Distancia de Colombia, enfoado en el desarrollo web con Java y JavaScript.
 
