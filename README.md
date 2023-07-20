@@ -1,7 +1,7 @@
 <p align="left">
 Soy estudiante de Ingeniería de Sistemas en la Universidad Nacional Abierta y a Distancia de Colombia, enfoado en el desarrollo web con Java y JavaScript.
 
-Tengo experiencia en el desarrollo de aplicaciones web 💻 , usando tecnologías como: HTML5, CSS3, JavaScript , React, Redux, Tailwind, Node.js, Express, Java, SpringBoot, MySQL, PostgreSQL, MongoDB 
+Tengo conocimientos en desarrollo de aplicaciones web, usando tecnologías como: HTML5, CSS3, JavaScript , React, Redux, Tailwind, Node.js, Express, Java, SpringBoot, MySQL, PostgreSQL, MongoDB 
 </p>
 
 ###
