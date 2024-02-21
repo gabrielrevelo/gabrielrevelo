@@ -1,5 +1,5 @@
 <p align="left">
-Soy estudiante de Ingeniería de Sistemas en la Universidad Nacional Abierta y a Distancia de Colombia, enfoado en el desarrollo web con Java y JavaScript.
+Soy estudiante de Ingeniería de Sistemas en la Universidad Nacional Abierta y a Distancia de Colombia, enfocado en el desarrollo web con Java y JavaScript.
 
 Tengo conocimientos en desarrollo de aplicaciones web, usando tecnologías como: HTML5, CSS3, JavaScript, TypeScript, Node.js, Angular, NestJs, Java, SpringBoot, MySQL, PostgreSQL, MongoDB, ...
 <br>
